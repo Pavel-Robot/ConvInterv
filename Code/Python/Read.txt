@@ -1,0 +1,5 @@
+
+Основные функции в maincopylib.py
+
+Для тестов:
+pytest -v test_coding.py
